@@ -2,8 +2,9 @@
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline: A Vuepress Demonstration Website
-actionText: Start Here →
-actionLink: /guide/
+actions:
+  - text: Start Here →
+    link: /guide/
 features:
 - title: Using Vue.js
   details: This is using Vue.js
